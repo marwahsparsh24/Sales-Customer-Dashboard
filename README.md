@@ -22,9 +22,11 @@ This project includes several worksheets used to build the dashboards, such as:
 
 ## Data Sources
 
-- **Parameters**: Contains input parameters for user interactions.
-- **federated.0rz1lq90ttah7l15bvdnm1mz3e39**: The main data source used for visualization.
-
+- `Non-EU Dataset/Orders.csv`
+- `Non-EU Dataset/Products.csv`
+- `Non-EU Dataset/Location.csv`
+- `Non-EU Dataset/Customerscsv`
+  
 ## Usage
 
 - Clone the repository.
